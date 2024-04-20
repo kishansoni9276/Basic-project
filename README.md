@@ -1,3 +1,4 @@
+![Screenshot 2024-04-19 023908](https://github.com/kishansoni9276/Basic-project/assets/150006493/35d6eac4-af53-4a87-bba8-a701230c38ca)
 # Basic-project
-It's going to be my first repository. Recently made a home webpage for an online teaching plateform . 
+ Calling all college students and tech enthusiasts! 🎓 Introducing our revolutionary platform designed just for YOU! Stay ahead of the curve with the latest trends and game-changing technologies in the IT sector. 📱💻 Post your businesses, ideas, and thoughts, and get notified about exclusive internship programs and Mooc courses from top companies like Google and Microsoft, complete with certifications! 💼💡 Plus, join our vibrant group chat to connect with like-minded peers and ask anything! 👥 Ready to elevate your tech journey? Give us a thumbs up if you're excited, and share your feedback to help shape our UI/UX! 🌐 hashtag#TechRevolution hashtag#StayUpdated hashtag#ConnectLearnGrow 
 <br><i><font color="blue"><b><u>designed by kishan soni<u></i></i></font>
